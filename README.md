@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-asaad-70952028a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue" /></a>
-  <a href="https://x.com/asad_asghar108?t=7JpJcBh3HZOcu1jvCmSsLA&s=09"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&labelColor=blue" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-asaad-70952028a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue" /></a>
+  <a href="https://x.com/asad_asghar108?t=7JpJcBh3HZOcu1jvCmSsLA&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&labelColor=blue" /></a>
 </p>
 
 ---
