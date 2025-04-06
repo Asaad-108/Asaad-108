@@ -55,10 +55,6 @@ To use my passion for programming and web development to build impactful solutio
 
 ---
 
-### 🐍 GitHub Contribution Snake (Enable with GitHub Actions)
-
-![GitHub Snake](https://github.com/Asaad-108/blob/output/github-contribution-grid-snake.svg)
-
 <!---
 Asaad-108/Asaad-108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
