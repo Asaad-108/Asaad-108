@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/your-profile"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
@@ -10,7 +10,7 @@
 **Hello, I'm Muhammad Asaad!**  
 I’m a passionate Computer Science student, currently in my **6th semester at UCP**, working on expanding my knowledge and skills in both software development and web technologies.
 
-My journey started with a solid foundation in **C++**. I’m also gaining hands-on experience in **web development**, particularly with the **Vue.js + SlimPHP** stack and **MERN** stack, along with **MySQL** for database management.
+My journey started with a solid foundation in **C++**. I’m also gaining hands-on experience in **web development**, particularly with the **MERN** stack, along with **MySQL** for database management.
 
 ---
 
@@ -37,7 +37,7 @@ In the web domain, I’ve created front-end projects such as:
 
 ### 🛠️ Skills  
 **Languages & Frameworks:**  
-C, C++, HTML, CSS, JavaScript, Vue.js, React.js, Node.js, Express.js, SlimPHP  
+C, C++, Python, HTML, CSS, JavaScript  
 
 **Databases:**  
 MySQL, MongoDB  
@@ -61,15 +61,15 @@ I’m always open to **new ideas**, **collaborations**, and **learning opportuni
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Asaad-108&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asaad-108&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Asaad-108/Asaad-108/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
