@@ -49,53 +49,15 @@ To use my passion for programming and web development to build impactful solutio
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Asaad-108&theme=dark&hide_border=true" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Asaad-108&show_icons=true&theme=radical" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asaad-108&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Asaad-108&theme=radical&margin-w=10&no-frame=true" />
 </p>
 
 ---
 
 ### 🐍 GitHub Contribution Snake (Enable with GitHub Actions)
 
-> ⚠️ To enable the snake animation, follow these steps:
-
-1. Create this file: `.github/workflows/github-contribution-grid-snake.yml`
-2. Paste the following:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Asaad-108
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to GitHub
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+![GitHub Snake](https://github.com/Asaad-108/Asaad-108/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 Asaad-108/Asaad-108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
