@@ -1,77 +1,100 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/your-profile"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue" /></a>
+  <a href="https://www.facebook.com/your-profile"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&labelColor=blue" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&labelColor=blue" /></a>
 </p>
 
 ---
 
-### Hey there 👋  
-**Hello, I'm Muhammad Asaad!**  
-I’m a passionate Computer Science student, currently in my **6th semester at UCP**, working on expanding my knowledge and skills in both software development and web technologies.
+### 👋 Hello, I'm Muhammad Asaad!
 
-My journey started with a solid foundation in **C++**. I’m also gaining hands-on experience in **web development**, particularly with the **MERN** stack, along with **MySQL** for database management.
+A passionate Computer Science student in my **6th semester at UCP**, always eager to learn and build meaningful tech solutions.  
+Started my programming journey with **C++**, I’ve developed several **console-based applications** including:
 
----
+- 🏫 University Management System  
+- ✈️ Airline Seating Reservation System  
+- 🌧️ Monthly Rainfall Analysis  
+- 🧩 Word Puzzle Game  
 
-### 🚀 About Me
+🔍 Currently exploring **AI** and **Computer Communication & Networking**, while continuing to grow my development skills.
 
-I'm a passionate Computer Science student in my 6th semester at UCP, always eager to learn and build meaningful tech solutions. I began my programming journey with **C++** and have developed several **console-based applications**, including:
+📱 Built **Android app CareerCraft**, with features like job listing, applying, recruiter access.
 
-- 🏫 **University Management System**
-- ✈️ **Airline Seating Reservation System**
-- 🌧️ **Monthly Rainfall Analysis**
-- 🧩 **Word Puzzle Game**
-
-I'm currently exploring the exciting fields of **Artificial Intelligence** and **Computer Communication & Networking**, while continuing to strengthen my core development skills in C++.
-
-On the mobile side, I’ve built **Android applications** like **CareerCraft**, which includes features like **job listing**, **applying**, and **recruiter access**.
-
-In the web domain, I’ve created front-end projects such as:  
-- 🎬 **Netflix Clone**  
-- ✊ **Stone-Paper-Scissors Game**  
-- ❌⭕ **Tic Tac Toe**  
-- 🔢 **Number Guessing Game**, and more!
+🌐 Also created fun front-end projects:  
+🎬 Netflix Clone, ✊ Stone-Paper-Scissors, ❌⭕ Tic Tac Toe, 🔢 Number Guessing Game
 
 ---
 
-### 🛠️ Skills  
-**Languages & Frameworks:**  
+### 🛠️ Skills
+
+**Languages:**  
 C, C++, Python, HTML, CSS, JavaScript  
 
 **Databases:**  
 MySQL, MongoDB  
 
-**Other Interests:**  
-Mobile App Development, Algorithms, Web Development, Code Optimization, System-Level Programming
+**Interests:**  
+Mobile App Development, Algorithms, Code Optimization, System-Level Programming
 
 ---
 
 ### 🎯 Goals  
-I aim to leverage my passion for programming and web development to create impactful solutions—starting with a **mobile app for the tailor app customer portal**. I’m eager to collaborate with like-minded professionals and keep learning as I grow in this field.
-
----
-
-### 📬 Let's Connect!  
-I’m always open to **new ideas**, **collaborations**, and **learning opportunities** in the tech space.  
-**Feel free to reach out—I'd love to connect!**
+To use my passion for programming and web development to build impactful solutions, starting with a tailor app customer portal.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Asaad-108&theme=dark&hide_border=true" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Asaad-108&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asaad-108&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🐍 GitHub Contribution Snake
+### 🏆 GitHub Trophies
 
-![snake gif](https://github.com/Asaad-108/Asaad-108/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Asaad-108&theme=radical&margin-w=10&no-frame=true" />
+</p>
 
 ---
+
+### 🐍 GitHub Contribution Snake (Enable with GitHub Actions)
+
+> ⚠️ To enable the snake animation, follow these steps:
+
+1. Create this file: `.github/workflows/github-contribution-grid-snake.yml`
+2. Paste the following:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Asaad-108
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to GitHub
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
 <!---
