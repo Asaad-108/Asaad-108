@@ -77,12 +77,12 @@ Developed fun & interactive front-end projects:
 
 ---
 
-### 🐍 Contribution Snake Animation
+<!-- ### 🐍 Contribution Snake Animation
 
 <!-- Enable GitHub Actions for Snake Animation to work -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Asaad-108/Asaad-108/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+</p> -->
 
 ---
 
