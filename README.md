@@ -79,7 +79,7 @@ Developed fun & interactive front-end projects:
 ### 🐍 Contribution Snake Animation
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Asaad-108&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<img src="https://raw.githubusercontent.com/AbdullahNazir0/AbdullahNazir0/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
