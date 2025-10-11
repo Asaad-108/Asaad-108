@@ -12,7 +12,7 @@
 
 <h1 align="center">👋 Hello, I'm Muhammad Asaad</h1>
 
-<p align="center">🚀 6th Semester CS Student @ UCP | 💡 Passionate Developer | 🔍 Exploring AI & Networks</p>
+<p align="center">🚀 7th Semester CS Student @ UCP | 💡 Passionate Developer | 🔍 Exploring AI & Networks</p>
 
 ---
 
@@ -48,10 +48,10 @@ Developed fun & interactive front-end projects:
 ### 🛠️ My Tech Stack
 
 **Languages:**  
-`C` &nbsp; `C++` &nbsp; `Python` &nbsp; `Java` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `JavaScript`  
+`C` &nbsp; `C++` &nbsp; `Python` &nbsp; `Java` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `JavaScript` &nbsp; `Kotlin`  
 
 **Databases:**  
-`MySQL` &nbsp; `MongoDB`
+`MySQL` &nbsp; `MongoDB` &nbsp; `PostgreSQL` &nbsp; `Firebase`
 
 **Areas of Interest:**  
 📱 Mobile App Dev &nbsp; | 🌐 Web Dev &nbsp; | 🧩 Algorithms &nbsp; | ⚙️ System-Level Programming
