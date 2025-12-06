@@ -18,7 +18,7 @@
 
 ### 🧠 About Me
 
-I'm a dedicated and curious **Computer Science student** in my 6th semester at **UCP**, always eager to explore new technologies and solve real-world problems.
+I'm a dedicated and curious **Computer Science student** in my 7th semester at **UCP**, always eager to explore new technologies and solve real-world problems.
 
 **Started with C++**, I’ve created several **console-based applications**:
 - 🏫 University Management System  
