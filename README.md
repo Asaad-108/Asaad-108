@@ -21,26 +21,30 @@
 I'm a dedicated and curious **Computer Science student** in my 7th semester at **UCP**, always eager to explore new technologies and solve real-world problems.
 
 **Started with C++**, I’ve created several **console-based applications**:
-- 🏫 University Management System  
-- ✈️ Airline Seating Reservation System  
-- 🌧️ Monthly Rainfall Analysis  
-- 🧩 Word Puzzle Game  
+
+- 🏫 University Management System
+- ✈️ Airline Seating Reservation System
+- 🌧️ Monthly Rainfall Analysis
+- 🧩 Word Puzzle Game
 
 🔬 Currently diving into:
+
 - 🤖 **Artificial Intelligence**
 - 🌐 **Computer Communication & Networking**
 
 📱 On the mobile side:  
 Built **CareerCraft**, an Android app featuring:
-- ✅ Job Listings  
-- ✅ Application System  
+
+- ✅ Job Listings
+- ✅ Application System
 - ✅ Recruiter Access
 
 🌍 On the web:  
 Developed fun & interactive front-end projects:
-- 🎬 Netflix Clone  
-- ✊ Stone-Paper-Scissors Game  
-- ❌⭕ Tic Tac Toe  
+
+- 🎬 Netflix Clone
+- ✊ Stone-Paper-Scissors Game
+- ❌⭕ Tic Tac Toe
 - 🔢 Number Guessing Game
 
 ---
@@ -48,7 +52,7 @@ Developed fun & interactive front-end projects:
 ### 🛠️ My Tech Stack
 
 **Languages:**  
-`C` &nbsp; `C++` &nbsp; `Python` &nbsp; `Java` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `JavaScript` &nbsp; `Kotlin`  
+`C` &nbsp; `C++` &nbsp; `Python` &nbsp; `Java` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `JavaScript` &nbsp; `Kotlin` &nbsp; `TypeScript` &nbsp; `Tailwind` &nbsp; `React`
 
 **Databases:**  
 `MySQL` &nbsp; `MongoDB` &nbsp; `PostgreSQL` &nbsp; `Firebase`
@@ -76,6 +80,7 @@ Developed fun & interactive front-end projects:
 </p>
 
 ---
+
 ### 🐍 Contribution Snake Animation
 
 <div align="center">
@@ -83,13 +88,14 @@ Developed fun & interactive front-end projects:
 </div>
 
 ---
+
 <!-- ### 🐍 Contribution Snake Animation
 
 <!-- Enable GitHub Actions for Snake Animation to work -->
 
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Asaad-108/Asaad-108/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p> 
+</p>
 
 --- -->
 
